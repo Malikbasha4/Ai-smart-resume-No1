@@ -1,0 +1,5 @@
+{
+  "name": "ResumAI - Intelligent Resume Builder",
+  "description": "A powerful React-based resume builder leveraging Google Gemini 2.5 Flash to craft, optimize, and tailor resumes for job applications. Features real-time previews, AI content enhancement, and PDF export.",
+  "requestFramePermissions": []
+}
